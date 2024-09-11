@@ -1,0 +1,73 @@
+---
+title: "PO1 - Avance 1"
+author: "Grupo 2"
+format: html
+editor: visual
+---
+
+# PG1 Oral - Avance 1
+
+## Integrantes
+
+| Nombre                           | Código    |
+|----------------------------------|-----------|
+| Jimenez Calmet, Camila Alejandra | 202410338 |
+| Cotrina Juipa, Jhojan Antoni     |           |
+| Nunayalle Brañes, Llorent Eloy   |           |
+| Silva Chico, Alexandro Sebastian |           |
+| Salazar Cabeza, Miranda Lucia    | 202210310 |
+
+## 1. Tema
+
+El tema escogido por el salón es "El consumo de café en la UTEC".
+
+## 2. Objetivos
+
+### 2.1. Objetivo general
+
+El objetivo general escogido por la sección a investigar es: "Determinar si los estudiantes de UTEC consumen café en su mayoría."
+
+### 2.2. Objetivos específicos
+
+Derivando del objetivo general, se encontraron dos objetivos específicos para indagar:
+
+1.  Averiguar el impacto autopercibido del café en el rendimiento académico de los estudiantes de UTEC.
+2.  Averiguar los hábitos de consumo de los estudiantes de UTEC respecto al café determinar la presencia de una cultura cafetera.
+
+## 3. Instrumento de recolección
+
+Para realizar esta investigación se utilizará la herramienta 'Google Forms'. Dentro de la encuesta, se hace uso de secciones o apartados para facilitar el flujo y limpieza de la misma.
+
+Dentro del cuestionario, incluimos dos tipos de preguntas: preguntas generales (para después poder analizar la distribución de respuestas de las preguntas específicas en función a ciertas características) y preguntas específicas a nuestros objetivos:
+
+### Preguntas generales:
+
+1.  Sexo
+2.  Edad
+3.  Ciclo
+4.  ¿Tomas café?
+5.  ¿Cuánto gastas en café a la semana?
+6.  ¿Cuál es el monto máximo que estás dispuesto a gastar en una buena taza de café? (en soles)
+
+### Preguntas específicas:
+
+1.  Impacto autopercibido del café en el rendimiento académico:
+    -   ¿Cuál es el motivo por el que consumes café?
+
+    -   Antes de ser alumno de UTEC, ¿cuántas tazas de café consumías a la semana aproximadamente?
+
+    -   ¿Tu consumo de café cambió al ingresar a la universidad?
+
+    -   En una semana típica del semestre académico ¿Cuántas tazas consumes en promedio?
+
+    -   Durante un semana de exámenes o de preparación intensa para exámenes, ¿Cuántas tazas de café consumes?
+
+    -   ¿Cuánto tiempo extra dedicas al estudio cuando consumes café?
+
+    -   Si tuvieras que describir tu rendimiento académico cuando consumes café ¿Cómo sería?
+2.  Hábitos de consumo y cultura cafetera:
+    -   ¿Qué tan frecuente te reúnes a tomar café con tus amigos?
+    -   ¿Cuántas veces sueles ir a cafeterías a la semana? 
+    -   ¿Te gusta acompañar el café con otros alimentos?
+
+[Link de la encuesta](https://docs.google.com/forms/d/16WWjxG9sZtW2zzD8xghwVZr6_hItsDGwvoWeAKI5XHU/edit).
